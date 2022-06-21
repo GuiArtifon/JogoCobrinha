@@ -4,13 +4,13 @@ window.onload = function(){ //função para iniciar a tela só quando carregar a
             var pincel = tela.getContext("2d"); // Váriavel usada para pintar na tela.
             
             //variável score
-            var score = "SCORE: " + 0;
+            var score = "SCORE: " + 0
 
             // constante que define a movimentação.
             const vel = 1;
  
             //variáveis de movimentação para cada eixo. 
-            var vx = vy = 0;
+            var vx = vy = 0
 
              // Váriavel que define a posição do objeto.
             var x =10;
